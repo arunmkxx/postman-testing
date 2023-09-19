@@ -34,5 +34,5 @@ jobs:
         run: |
           echo Add other actions to build,
           echo test, and deploy your project.
-          postman login --with-api-key PMAK-65085a0406ee3d002a832560-e78663d84516978a0cc3843d0dc1077211
+          postman login --with-api-key 
           postman collection run 29806285-832109fb-c765-47da-bf5d-620d24dd70be
